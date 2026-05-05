@@ -1,18 +1,10 @@
-## Getting Started
+# UNIVERSIDAD POLITECNICA SALESIANA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##  PROYECTO: METODOS ORDENAMIENTO (Insercion y Shell)
+##  ESTUDIANTES: NICOLÁS AGUILAR y RICARDO UZHCA
 
-## Folder Structure
+##  TAREA PRACTICA 01.01 METODO DE INSERCION Y SHELL
+##  FECHA: 2026-05-05
+##  DESCRIPCION: 
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+CREE UN MENU EN EL CUAL HAY LA OPCION PARA ORDENAR UN ARREGLO DE MANERA ASCENDENTE O DESCENDENTE MEDIANTE INSERCION O SHELL, Y EN CADA UNO DE ESOS METODOS SE CUENTA LA CANTIDAD DE ITERACIONES Y COMPARACIONES PARA ASI VER CUAL ES EL MÁS EFICIENTE A LA HORA DE ORDENAR UN ARRAY.
