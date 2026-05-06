@@ -10,6 +10,9 @@ public class App {
         Insercion insercion = new Insercion();
         Shell shell = new Shell();
 
+        int[] arregloInsercion = arreglo.clone();
+        int[] arregloShell = Arrays.copyOf(arreglo, arreglo.length);
+
         int opcionMenu;
 
         do {
@@ -21,9 +24,6 @@ public class App {
 
             switch (opcionMenu) {
                 case 1:
-                    int[] arregloInsercion = arreglo.clone();
-                    int[] arregloShell = Arrays.copyOf(arreglo, arreglo.length);
-
                     System.out.println("\nArreglo original: " + Arrays.toString(arreglo));
 
                     System.out.println("\nInsercion:");
